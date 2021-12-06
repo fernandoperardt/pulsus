@@ -1,0 +1,35 @@
+interpretar o json abaixo retirando a informação nome e gravando em uma tabela no banco de dados, com o horario da captura,
+realizar o mesmo com a posição GPS, tendo como ponto relacional a tabela de device id, 
+
+
+criar uma rota que busque a informação de nome e posição 
+por device id 
+com filtro de dia e hora
+
+{
+    "deviceid":"0001",
+    "nome": "davi menegotto",
+    "latitude": "-30.08848796",
+    "longitude":"-51.2495962"
+}
+
+{
+    "deviceid":"0001",
+    "nome": "davi menegotto",
+    "latitude": "-30.079759",
+    "longitude":"-51.2447702"
+}
+{
+
+    "deviceid":"0001",
+    "nome": "davi menegotto",
+    "latitude": "-30.075233",
+    "longitude":"-51.242327"
+}
+
+{
+    "deviceid":"0001",
+    "nome": "davi menegotto",
+    "latitude": "-30.071871",
+    "longitude":"-51.240897"
+}
